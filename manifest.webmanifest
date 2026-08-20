@@ -1,0 +1,9 @@
+{
+  "name": "iMessage",
+  "short_name": "iMessage",
+  "start_url": "iMessage_iPhone.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{"src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODAgMTgwIj4KPHJlY3Qgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHJ4PSI0MCIgZmlsbD0iIzExMSIvPgo8cmVjdCB4PSIzMCIgeT0iNDIiIHdpZHRoPSIxMjAiIGhlaWdodD0iOTYiIHJ4PSIzMCIgZmlsbD0iIzIwYzk1YyIvPgo8cGF0aCBkPSJNNTggMTIwYzggMTEgMjAgMTcgMzMgMTgtNC03LTQtMTMgMS0yMCIgZmlsbD0iIzIwYzk1YyIvPgo8cGF0aCBkPSJNNTggNzZoNjRNNTggOTZoNDQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==", "sizes": "180x180", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
